@@ -1,16 +1,21 @@
 _repo: Squinty-the-Comical-PigHis-Many-Adventures_11069
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Tooker, Harriet H.
     gutenberg_agent_id: '24803'
     url: http://www.gutenberg.org/2009/agents/24803
+covers:
+- cover_type: archival
+  image_path: 11069-h/images/cover_l.jpg
 creator:
   author:
     agent_name: Barnum, Richard
     gutenberg_agent_id: '3820'
     url: http://www.gutenberg.org/2009/agents/3820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11069#Squinty-the-Comical-PigHis-Many-Adventures
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
